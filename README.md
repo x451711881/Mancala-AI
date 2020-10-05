@@ -15,8 +15,10 @@ Each turn proceeds by the active player choosing a pit, then removing all the st
 # Basic usage
 Make sure you are in the "mancala" directory
 Using the command line: 
->$ python main.py 
+>$ python main.py
+>
 >(Or python3 main.py according to your circumstance)
+>
 And choose 2 modes following the instructions
 
 ## For example:
